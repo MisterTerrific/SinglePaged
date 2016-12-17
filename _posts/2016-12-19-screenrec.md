@@ -4,4 +4,4 @@ bg: orange
 color: black
 style: center
 ---
-### Simple Screen Recorder
+### **Simple Screen Recorder**
