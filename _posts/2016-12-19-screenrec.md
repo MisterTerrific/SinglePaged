@@ -8,6 +8,18 @@ style: center
 Simple Screen recorder is an android app, that captures and   
 records the screen and stores the footage to video MP4 format.   
 
+<div>
+<a href="screens/simple2.png">
+<img src="screens/simple2.png" style="border-color:black; border:1px; margin:.8em; width:40%; height:40%; float:left; clear: left" />
+</a>
+<a href="screens/simple3.png">
+<img src="screens/simple3.png" style="border-color:black; border:1px; margin:.8em; width:40%; height:40%" />
+</a>
+<a href="screens/simple4.png">
+<img src="screens/simple4.png" style="border-color:black; border:1px; margin:.8em; width:40%; height:40%" />
+</a>
+</div>   
+
 
 #### **Technologies**     
 
