@@ -4,7 +4,7 @@ bg: orange
 color: black
 style: center
 ---
-### Simple Screen Recorder
+## Simple Screen Recorder
 Simple Screen recorder is an android app, that captures and   
 records the screen and stores the footage to video MP4 format.   
 
