@@ -3,7 +3,7 @@ title: "2"
 bg: orange
 color: black
 style: center
-fa-icon: mobile
+fa-icon: mobile-phone
 ---
 ## Simple Screen Recorder
 Simple Screen recorder is an android app, that captures and   
